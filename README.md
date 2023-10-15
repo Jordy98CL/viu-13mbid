@@ -7,7 +7,10 @@ Plantilla de repositorio para la asignatura 13MBID.
 Universidad Internacional de Valencia*  
 
 Prof: Dr. Horacio Kuna
+
 Dictado: ABR23-24
+
+Alumno: Jordy Carrion
 
 ## Descripción del contenido
 
