@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/usuario/Desktop/BIG%20DATA/013MBID%28proceso%29/013mbid/viu-13mbid/examples/mlruns/0/808e77f7fa9a49eaa1d439c11ee5949e/artifacts
+end_time: 1697340132854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 808e77f7fa9a49eaa1d439c11ee5949e
+run_name: gentle-bass-362
+run_uuid: 808e77f7fa9a49eaa1d439c11ee5949e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697340125236
+status: 3
+tags: []
+user_id: usuario
