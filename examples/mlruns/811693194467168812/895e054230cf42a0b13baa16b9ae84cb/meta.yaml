@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/usuario/Desktop/BIG%20DATA/013MBID%28proceso%29/013mbid/viu-13mbid/examples/mlruns/811693194467168812/895e054230cf42a0b13baa16b9ae84cb/artifacts
+end_time: 1697385976182
+entry_point_name: ''
+experiment_id: '811693194467168812'
+lifecycle_stage: active
+run_id: 895e054230cf42a0b13baa16b9ae84cb
+run_name: Randrom Forest
+run_uuid: 895e054230cf42a0b13baa16b9ae84cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697385969008
+status: 3
+tags: []
+user_id: usuario

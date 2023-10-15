@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/usuario/Desktop/BIG%20DATA/013MBID%28proceso%29/013mbid/viu-13mbid/examples/mlruns/811693194467168812/f42480aa40114853973e5757333e4e98/artifacts
+end_time: 1697385986474
+entry_point_name: ''
+experiment_id: '811693194467168812'
+lifecycle_stage: active
+run_id: f42480aa40114853973e5757333e4e98
+run_name: Otra tecnica
+run_uuid: f42480aa40114853973e5757333e4e98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697385979221
+status: 3
+tags: []
+user_id: usuario

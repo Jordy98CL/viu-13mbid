@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/usuario/Desktop/BIG%20DATA/013MBID%28proceso%29/013mbid/viu-13mbid/examples/mlruns/0/5347c988ee3d45b995d8fb09b15c2e07/artifacts
+end_time: 1697385961380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5347c988ee3d45b995d8fb09b15c2e07
+run_name: crawling-kite-802
+run_uuid: 5347c988ee3d45b995d8fb09b15c2e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697385954465
+status: 3
+tags: []
+user_id: usuario
