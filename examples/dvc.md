@@ -52,7 +52,7 @@ Esquema de pasos a seguir:
 7. Finalmente, una forma de realizar una recuperación de una versión en particular de un archivo ante un cambio no deseado podría ser:
 
     ~~~ bash
-    git checkout [version][nombre_archivo]
+    git checkout HEAD~1 [nombre_archivo]
     dvc checkout
     ~~~
 
